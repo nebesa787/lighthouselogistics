@@ -1,0 +1,1995 @@
+{
+  "Пример НЕ ПРАВИТЬ!":[
+        [
+          "id - Порядковый номер",
+          "city - Город покупки",
+          "port - Порт доставки",
+          "price - Цена доставки",
+          "copart - Участвует на аукционе copart (1-Да/0-Нет)",
+          "iaai - Участвует на аукционе iaai (1-Да/0-Нет)"
+        ]
+  ],
+  "1": [
+    [
+      "sn001",
+      "TX - Abilene",
+      "Houston",
+      500,
+      1,
+      1
+    ],
+	[
+      "sn002",
+      "NY - Albany",
+      "New Jersey",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn003",
+      "Acron-Canton",
+      "New Jersey",
+      525,
+      0,
+      1
+    ],
+    
+    [
+      "sn004",
+      "NM - Albuquerque",
+      "Los Angeles",
+      650,
+      1,
+      1
+    ],
+    [
+      "sn005",
+      "PA - Altoona",
+      "New Jersey",
+      525,
+      1,
+      1
+    ],
+    [
+      "sn006",
+      "TX - Amarillo",
+      "Houston",
+      550,
+      1,
+      1
+    ],
+    [
+      "sn007",
+      "Anaheim",
+      "Los Angeles",
+      300,
+      0,
+      1
+    ],
+    [
+      "sn008",
+      "AK - Anchorage",
+      "Los Angeles",
+      2150,
+      1,
+      1
+    ],
+	[
+      "sn009",
+      "TX - Andrews",
+      "Houston",
+      600,
+      1,
+      0
+    ],
+	[
+      "sn010",
+      "CA - Antelope",
+      "Los Angeles",
+      450,
+      1,
+      1
+    ],
+	[
+      "sn011",
+      "WI - Appleton",
+      "Los Angeles",
+      525,
+      1,
+      0
+    ],
+    [
+      "sn012",
+      "WI - Appleton",
+      "Savannah",
+      675,
+      0,
+      1
+    ],
+    [
+      "sn013",
+      "Ashville",
+      "Savannah",
+      450,
+      0,
+      1
+    ],
+    [
+      "sn014",
+      "Ashland",
+      "Savannah",
+      625,
+      0,
+      1
+    ],
+    [
+      "sn015",
+      "Atlanta",
+      "Savannah",
+      375,
+      0,
+      1
+    ],
+    [
+      "sn016",
+      "GA - Atlanta East",
+      "Savannah",
+      375,
+      1,
+      1
+    ],
+    [
+      "sn017",
+      "GA - Atlanta North",
+      "Savannah",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn018",
+      "GA - Atlanta South",
+      "Savannah",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn019",
+      "GA - Atlanta West",
+      "Savannah",
+      400,
+      1,
+      0
+    ],
+    [
+      "sn020",
+      "TX - Austin",
+      "Houston",
+      375,
+      1,
+      1
+    ],
+    [
+      "sn021",
+      "Avenel",
+      "New Jersey",
+      275,
+      0,
+      1
+    ],
+    [
+	  "sn022",
+      "CA - Bakersfield",
+      "Los Angeles",
+      375,
+      1,
+      0
+    ],
+    [
+      "sn023",
+      "MD - Baltimore",
+      "New Jersey",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn024",
+      "LA - Baton Rouge",
+      "Savannah",
+      525,
+      1,
+      1
+    ],
+    [
+      "sn025",
+      "MT - Billings",
+      "New Jersey",
+      1100,
+      1,
+      1
+    ],
+    [
+      "sn026",
+      "AL - Birmingham",
+      "Savannah",
+      450,
+      1,
+      1
+    ],
+	[
+      "sn0266",
+      "AL - BIRMINGHAM - BLENDED SALES",
+      "Savannah",
+      475,
+      1,
+      1
+    ],
+	
+    [
+      "sn028",
+      "ID - Boise",
+      "Los Angeles",
+      700,
+      1,
+      1
+    ],
+    [
+      "sn029",
+      "Boston-Shirley",
+      "New Jersey",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn0300",
+      "Bowling Green",
+      "Savannah",
+      575,
+      0,
+      1
+    ],
+    [
+      "sn030",
+      "Bridgeport - PA",
+      "New Jersey",
+      375,
+      0,
+      1
+    ],
+    [
+      "sn031",
+      "Buckhannon",
+      "New Jersey",
+      600,
+      0,
+      1
+    ],
+    [
+      "sn032",
+      "NY - Buffalo",
+      "New Jersey",
+      575,
+      1,
+      1
+    ],
+    [
+      "sn033",
+      "Burlington",
+      "New Jersey",
+      575,
+      0,
+      1
+    ],
+    [
+      "sn034",
+      "Central New Jersey",
+      "New Jersey",
+      275,
+      0,
+      1
+    ],
+    [
+      "sn035",
+      "Candia",
+      "New Jersey",
+      550,
+      1,
+      0
+    ],
+    [
+      "sn036",
+      "GA - Cartersville",
+      "Savannah",
+      400,
+      1,
+      0
+    ],
+	
+	[
+      "sn037",
+      "WY - Casper",
+      "Los Angeles",
+      1050,
+      1,
+      1
+    ],
+    [
+      "sn038",
+      "PA - Chambersburg",
+      "New Jersey",
+      500,
+      1,
+      0
+    ],
+    [
+      "sn039",
+      "SC - North Charleston",
+      "Savannah",
+      350,
+      1,
+      1
+    ],
+    [
+      "sn040",
+      "WV - Charleston",
+      "New Jersey",
+      625,
+      1,
+      0
+    ],
+    [
+      "sn041",
+      "Charlotte",
+      "Savannah",
+      375,
+      0,
+      1
+    ],
+    [
+      "sn042",
+      "Chattanooga",
+      "Savannah",
+      500,
+      0,
+      1
+    ],
+    [
+      "sn043",
+      "IL - Chicago North",
+      "Savannah",
+      625,
+      1,
+      1
+    ],
+	[
+      "sn044",
+      "IL - Chicago South",
+      "New Jersey",
+      625,
+      1,
+      1
+    ],
+	
+    [
+      "sn045",
+      "NC - China Grove",
+      "Savannah",
+      375,
+      1,
+      0
+    ],
+    [
+      "sn046",
+      "Cincinnati",
+      "Savannah",
+      575,
+      0,
+      1
+    ],
+    [
+      "sn047",
+      "Clearwater",
+      "Savannah",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn048",
+      "OH - Cleveland East",
+      "New Jersey",
+      550,
+      1,
+      1
+    ],
+	[
+      "sn0481",
+      "OH - Cleveland West",
+      "New Jersey",
+      550,
+      1,
+      1
+    ],
+    [
+      "sn049",
+      "Colton",
+      "Los Angeles",
+      350,
+      0,
+      1
+    ],
+    [
+      "sn050",
+      "CO - Colorado Springs",
+      "Los Angeles",
+      650,
+      1,
+      0
+    ],
+    [
+      "sn051",
+      "MO - Columbia",
+      "Savannah",
+      650,
+      1,
+      0
+    ],
+    [
+      "sn052",
+      "SC - Columbia",
+      "Savannah",
+      340,
+      1,
+      1
+    ],
+    [
+      "sn053",
+      "OH - Columbus",
+      "New Jersey",
+      625,
+      1,
+      1
+    ],
+    [
+      "sn054",
+      "Concord NC",
+      "Savannah",
+      425,
+      0,
+      1
+    ],
+    [
+      "sn055",
+      "TX - Corpus Christi",
+      "Houston",
+      425,
+      1,
+      1
+    ],
+    [
+      "sn056",
+      "Crashedtoys East Bethel - MN",
+      "New Jersey",
+      750,
+      1,
+      0
+    ],
+    [
+      "sn057",
+      "Crashedtoys Eldridge - IA",
+      "New Jersey",
+      725,
+      1,
+      0
+    ],
+    [
+      "sn058",
+      "VA - CULPEPER",
+      "Savannah",
+      550,
+      1,
+      1
+    ],
+    [
+      "sn059",
+      "TX - Dallas",
+      "Houston",
+      375,
+      1,
+      1
+    ],
+    [
+      "sn060",
+      "VA - Danville",
+      "New Jersey",
+      525,
+      1,
+      0
+    ],
+    [
+      "sn061",
+      "IA - Davenport",
+      "New Jersey",
+      700,
+      1,
+      1
+    ],
+    [
+      "sn063",
+      "OH - Dayton",
+      "New Jersey",
+      550,
+      1,
+      1
+    ],
+    [
+      "sn0641",
+      "CO - Denver",
+      "Los Angeles",
+      650,
+      1,
+      1
+    ],
+	[
+      "sn0642",
+      "CO - Denver Central",
+      "Los Angeles",
+      650,
+      1,
+      1
+    ],
+	[
+      "sn0643",
+      "CO - Denver South",
+      "Los Angeles",
+      650,
+      1,
+      1
+    ],
+    [
+      "sn065",
+      "IA - Des Moines",
+      "New Jersey",
+      700,
+      1,
+      1
+    ],
+    [
+      "sn066",
+      "MI - Detroit",
+      "New Jersey",
+      525,
+      1,
+      1
+    ],
+    [
+      "sn067",
+      "Dothan",
+      "Savannah",
+      450,
+      0,
+      1
+    ],
+    [
+      "sn068",
+      "Dundalk MD",
+      "New Jersey",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn069",
+      "East Bay",
+      "Los Angeles",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn070",
+      "TX - El Paso",
+      "Houston",
+      525,
+      1,
+      1
+    ],
+    [
+      "sn071",
+      "Erie",
+      "New Jersey",
+      600,
+      0,
+      1
+    ],
+    [
+      "sn072",
+      "OR - Eugene",
+      "Los Angeles",
+      650,
+      1,
+      1
+    ],
+	[
+      "sn073",
+      "RI - Exeter",
+      "New Jersey",
+      450,
+      1,
+      0
+    ],
+	
+    [
+      "sn074",
+      "Fargo",
+      "New Jersey",
+      1000,
+      0,
+      1
+    ],
+    [
+      "sn075",
+      "AR - Fayetteville",
+      "Houston",
+      550,
+      1,
+      1
+    ],
+    [
+      "sn076",
+      "MI - Flint",
+      "New Jersey",
+      625,
+      1,
+      1
+    ],
+    [
+      "sn077",
+      "Fontana",
+      "Los Angeles",
+      275,
+      0,
+      1
+    ],
+    [
+      "sn078",
+      "Fort Myers",
+      "Savannah",
+      450,
+      0,
+      1
+    ],
+    [
+      "sn079",
+      "IN - Fort Wayne",
+      "New Jersey",
+      650,
+      1,
+      0
+    ],
+	[
+      "sn080",
+      "Fort Wort North - TX",
+      "Houston",
+      375,
+      0,
+      1
+    ],	
+    [
+      "sn081",
+      "Fremont",
+      "Los Angeles",
+      425,
+      1,
+      1
+    ],
+    [
+      "sn082",
+      "CA - Fresno",
+      "Los Angeles",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn083",
+      "FL - Ft. Pierce",
+      "Savannah",
+      450,
+      1,
+      1
+    ],
+    [
+      "sn084",
+      "TX - Ft. Worth",
+      "Houston",
+      325,
+      1,
+      0
+    ],
+	[
+      "sn085",
+      "Fredericksburg/South VA",
+      "New Jersey",
+      425,
+      0,
+      1
+    ],
+    [
+      "sn086",
+      "NJ - Glassboro East",
+      "New Jersey",
+      350,
+      1,
+      0
+    ],
+    [
+      "sn087",
+      "WA - Graham",
+      "Los Angeles",
+      650,
+      1,
+      0
+    ],
+	
+    [
+      "sn088",
+      "Grand Rapids",
+      "New Jersey",
+      625,
+      0,
+      1
+    ],
+    [
+      "sn089",
+      "Great Lakes",
+      "New Jersey",
+      625,
+      0,
+      1
+    ],
+    [
+      "sn090",
+      "Greensboro",
+      "Savannah",
+      425,
+      0,
+      1
+    ],
+    [
+      "sn100",
+      "Greenville",
+      "Savannah",
+      375,
+      0,
+      1
+    ],
+    [
+      "sn101",
+      "SC - Greer",
+      "Savannah",
+      375,
+      1,
+      0
+    ],
+    [
+      "sn102",
+      "Grenada",
+      "Savannah",
+      550,
+      0,
+      1
+    ],
+    [
+      "sn103",
+      "Gulf Coast",
+      "Savannah",
+      475,
+      0,
+      1
+    ],
+    [
+      "sn104",
+      "IN - Hammond",
+      "Savannah",
+      600,
+      1,
+      0
+    ],
+    [
+      "sn105",
+      "VA - Hampton",
+      "New Jersey",
+      525,
+      1,
+      0
+    ],
+    [
+      "sn106",
+      "PA - Harrisburg",
+      "New Jersey",
+      450,
+      1,
+      0
+    ],
+    [
+      "sn107",
+      "Hartford South - CT",
+      "New Jersey",
+      375,
+      1,
+      1
+    ],
+	[
+      "sn108",
+      "CT - Hartford",
+      "New Jersey",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn109",
+      "CA - Hayward",
+      "Los Angeles",
+      475,
+      1,
+      0
+    ],
+    [
+      "sn110",
+      "MT - Helena",
+      "Los Angeles",
+      900,
+      1,
+      0
+    ],
+    [
+      "sn111",
+      "High Desert",
+      "Los Angeles",
+      375,
+      0,
+      1
+    ],
+    [
+      "sn112",
+      "HI - Honolulu",
+      "Los Angeles",
+      1750,
+      1,
+      1
+    ],
+    [
+      "sn113",
+      "TX - Houston",
+      "Houston",
+      350,
+      1,
+      1
+    ],
+    [
+      "sn114",
+      "Huntsville",
+      "Savannah",
+      475,
+      0,
+      1
+    ],
+	[
+      "sn115",
+      "IAA CAT Houston - TX",
+      "Houston",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn116",
+      "IN - Indianapolis",
+      "Savannah",
+      625,
+      1,
+      1
+    ],
+    [
+      "sn117",
+      "Iona",
+      "New Jersey",
+      650,
+      1,
+      0
+    ],
+    [
+      "sn118",
+      "MS - Jackson",
+      "Savannah",
+      500,
+      1,
+      1
+    ],
+    [
+      "sn119",
+      "FL - Jacksonville East",
+      "Savannah",
+      325,
+      1,
+      1
+    ],
+	[
+      "sn1191",
+      "FL - Jacksonville West",
+      "Savannah",
+      325,
+      1,
+      1
+    ],
+    [
+      "sn120",
+      "KS - Kansas City",
+      "Savannah",
+      625,
+      1,
+      1
+    ],
+    [
+      "sn121",
+      "MI - Kincheloe",
+      "New Jersey",
+      1000,
+      1,
+      0
+    ],
+    [
+      "sn122",
+      "TN - Knoxville",
+      "Savannah",
+      475,
+      1,
+      1
+    ],
+    [
+      "sn123",
+      "Lafayette",
+      "Savannah",
+      550,
+      0,
+      1
+    ],
+    [
+      "sn124",
+      "MI - Lansing",
+      "New Jersey",
+      650,
+      1,
+      0
+    ],
+    [
+      "sn125",
+      "NV - Las Vegas",
+      "Los Angeles",
+      450,
+      1,
+      1
+    ],
+    [
+      "sn126",
+      "Laurel",
+      "New Jersey",
+      450,
+      0,
+      1
+    ],
+    [
+      "sn127",
+      "KY - Lexington East",
+      "Savannah",
+      550,
+      1,
+      0
+    ],
+	[
+      "sn128",
+      "KY - Lexington West",
+      "Savannah",
+      550,
+      1,
+      0
+    ],
+    [
+      "sn129",
+      "NE - Lincoln",
+      "Savannah",
+      775,
+      1,
+      0
+    ],
+    [
+      "sn130",
+      "Lincoln IL",
+      "Savannah",
+      725,
+      0,
+      1
+    ],
+    [
+      "sn131",
+      "AR - Little Rock",
+      "Houston",
+      575,
+      1,
+      1
+    ],
+	[
+      "sn132",
+      "CA - Long Beach",
+      "Los Angeles",
+      280,
+      1,
+      0
+    ],
+    [
+      "sn133",
+      "NY - Long Island",
+      "New Jersey",
+      380,
+      1,
+      1
+    ],
+    [
+      "sn134",
+      "TX - Longview",
+      "Houston",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn135",
+      "CA - Los Angeles",
+      "Los Angeles",
+      280,
+      1,
+      1
+    ],
+    [
+      "sn136",
+      "KY - Louisville",
+      "Savannah",
+      575,
+      1,
+      1
+    ],
+    [
+      "sn137",
+      "Lubbock",
+      "Houston",
+      600,
+      0,
+      1
+    ],
+    [
+      "sn138",
+      "TX - Lufkin",
+      "Houston",
+      350,
+      1,
+      0
+    ],
+    [
+      "sn139",
+      "ME - Lyman",
+      "New Jersey",
+      550,
+      1,
+      0
+    ],
+    [
+      "sn140",
+      "WI - Madison",
+      "New Jersey",
+      725,
+      1,
+      0
+    ],
+    [
+      "sn141",
+      "Macon, GA",
+      "Savannah",
+      350,
+      1,
+      1
+    ],
+    [
+      "sn142",
+      "Manchester NH",
+      "New Jersey",
+      475,
+      0,
+      1
+    ],
+    [
+      "sn143",
+      "CA - Martinez",
+      "Los Angeles",
+      475,
+      1,
+      0
+    ],
+    [
+      "sn144",
+      "TX - McAllen",
+      "Houston",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn145",
+      "NC - Mebane",
+      "Savannah",
+      450,
+      1,
+      0
+    ],
+    [
+      "sn146",
+      "TN - Memphis",
+      "Savannah",
+      550,
+      1,
+      1
+    ],
+    [
+      "sn147",
+      "Metro DC",
+      "New Jersey",
+      425,
+      0,
+      1
+    ],
+    [
+      "sn148",
+      "FL - Miami Central",
+      "Savannah",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn149",
+      "WI - Milwaukee",
+      "New Jersey",
+      600,
+      1,
+      1
+    ],
+    [
+      "sn150",
+      "MN - Minneapolis",
+      "New Jersey",
+      675,
+      1,
+      1
+    ],
+    [
+      "sn151",
+      "Missoula",
+      "Los Angeles",
+      1025,
+      0,
+      1
+    ],
+    [
+      "sn152",
+      "AL - Mobile",
+      "Savannah",
+      475,
+      1,
+      0
+    ],
+	[
+      "sn153",
+      "NC - Mocksville",
+      "Savannah",
+      450,
+      1,
+      0
+    ],
+    [
+      "sn154",
+      "AL - Montgomery",
+      "Savannah",
+      450,
+      1,
+      0
+    ],
+    [
+      "sn155",
+      "Nashville Blended Sales",
+      "Savannah",
+      500,
+      0,
+      1
+    ],
+    [
+      "sn156",
+      "TN - Nashville",
+      "Savannah",
+      475,
+      1,
+      1
+    ],
+    [
+      "sn157",
+      "New Castle",
+      "New Jersey",
+      375,
+      0,
+      1
+    ],
+    [
+      "sn158",
+      "LA - New Orleans",
+      "Savannah",
+      550,
+      1,
+      1
+    ],
+    [
+      "sn160",
+      "New Orleans & Lousiana Flood",
+      "Savannah",
+      525,
+      0,
+      1
+    ],
+    [
+      "sn161",
+      "New Orleans East",
+      "Houston",
+      525,
+      0,
+      1
+    ],
+    [
+      "sn162",
+      "NY - Newburgh",
+      "New Jersey",
+      375,
+      1,
+      1
+    ],
+    [
+      "sn163",
+      "North Hollywood",
+      "Los Angeles",
+      275,
+      0,
+      1
+    ],
+    [
+      "sn164",
+      "MA - North Boston",
+      "New Jersey",
+      425,
+      1,
+      0
+    ],
+    [
+      "sn165",
+      "Northern New Jersey",
+      "New Jersey",
+      300,
+      0,
+      1
+    ],
+    [
+      "sn166",
+      "WA - North Seattle",
+      "Los Angeles",
+      675,
+      1,
+      0
+    ],
+    [
+      "sn167",
+      "Northern Virginia",
+      "New Jersey",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn168",
+      "FL - Ocala",
+      "Savannah",
+      400,
+      1,
+      0
+    ],	
+	 [
+      "sn169",
+      "UT - Ogden",
+      "Los Angeles",
+      525,
+      1,
+      0
+    ],
+    [
+      "sn170",
+      "OK - Oklahoma City",
+      "Houston",
+      500,
+      1,
+      1
+    ],
+    [
+      "sn171",
+      "Omaha",
+      "New Jersey",
+      725,
+      0,
+      1
+    ],
+    [
+      "sn172",
+      "FL - Orlando",
+      "Savannah",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn173",
+      "Paducah",
+      "Savannah",
+      575,
+      0,
+      1
+    ],
+    [
+      "sn174",
+      "WA - Pasco",
+      "Los Angeles",
+      875,
+      1,
+      0
+    ],
+    [
+      "sn175",
+      "Pensacola",
+      "Savannah",
+      475,
+      0,
+      1
+    ],
+    [
+      "sn176",
+      "IL - Peoria",
+      "New Jersey",
+      625,
+      1,
+      0
+    ],
+    [
+      "sn177",
+      "Permian Basin",
+      "Houston",
+      525,
+      0,
+      1
+    ],
+    [
+      "sn178",
+      "PA - Philadelphia",
+      "New Jersey",
+      340,
+      1,
+      1
+    ],
+    [
+      "sn179",
+      "PA - Philadelphia East",
+      "New Jersey",
+      350,
+      1,
+      0
+    ],
+    [
+      "sn180",
+      "AZ - Phoenix",
+      "Los Angeles",
+      425,
+      1,
+      1
+    ],
+    [
+      "sn181",
+      "PA - Pittsburgh East",
+      "New Jersey",
+      525,
+      1,
+      1
+    ],
+	[
+      "sn1811",
+      "PA - Pittsburgh North",
+      "New Jersey",
+      525,
+      1,
+      1
+    ],
+	[
+      "sn1812",
+      "PA - Pittsburgh South",
+      "New Jersey",
+      525,
+      1,
+      1
+    ],
+    [
+      "sn182",
+      "Portage",
+      "Savannah",
+      675,
+      0,
+      1
+    ],
+    [
+      "sn183",
+      "OR - Portland North",
+      "Los Angeles",
+      625,
+      1,
+      1
+    ],
+	[
+      "sn1831",
+      "OR - Portland South",
+      "Los Angeles",
+      650,
+      1,
+      0
+    ],
+	[
+      "sn1831",
+      "OR - Portland West",
+      "Los Angeles",
+      625,
+      1,
+      1
+    ],
+	
+    [
+      "sn184",
+      "Portland-Gorham",
+      "New Jersey",
+      625,
+      0,
+      1
+    ],
+    [
+      "sn185",
+      "Providence",
+      "New Jersey",
+      450,
+      0,
+      1
+    ],
+    [
+      "sn186",
+      "Pulaski",
+      "New Jersey",
+      575,
+      0,
+      1
+    ],
+    [
+      "sn187",
+      "FL - Punta Gorda",
+      "Savannah",
+      450,
+      1,
+      0
+    ],
+    [
+      "sn188",
+      "NC - Raleigh",
+      "Savannah",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn189",
+      "CA - Rancho Cucamonga",
+      "Los Angeles",
+      320,
+      1,
+      0
+    ],
+    [
+      "sn190",
+      "NV - Reno",
+      "Los Angeles",
+      525,
+      1,
+      1
+    ],
+    [
+      "sn191",
+      "VA - Richmond",
+      "Savannah",
+      500,
+      1,
+      1
+    ],
+    [
+      "sn192",
+      "NY - Rochester",
+      "New Jersey",
+      500,
+      1,
+      1
+    ],
+    [
+      "sn193",
+      "Rosedale",
+      "New Jersey",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn194",
+      "CA - Sacramento",
+      "Los Angeles",
+      475,
+      1,
+      1
+    ],
+    [
+      "sn195",
+      "UT - Salt Lake City",
+      "Los Angeles",
+      600,
+      1,
+      1
+    ],
+    [
+      "sn196",
+      "TX - San Antonio",
+      "Houston",
+      425,
+      1,
+      1
+    ],
+    [
+      "sn197",
+      "CA - San Bernardino",
+      "Los Angeles",
+      325,
+      1,
+      0
+    ],
+    [
+      "sn198",
+      "CA - San Diego",
+      "Los Angeles",
+      350,
+      1,
+      1
+    ],
+    [
+      "sn199",
+      "CA - San Jose",
+      "Los Angeles",
+      475,
+      1,
+      0
+    ],
+    [
+      "sn200",
+      "GA - Savannah",
+      "Savannah",
+      275,
+      1,
+      1
+    ],
+    [
+      "sn201",
+      "PA - Scranton",
+      "New Jersey",
+      375,
+      1,
+      1
+    ],
+    [
+      "sn202",
+      "Seattle",
+      "Los Angeles",
+      675,
+      0,
+      1
+    ],
+    [
+      "sn203",
+      "DE - Seaford",
+      "New Jersey",
+      425,
+      1,
+      0
+    ],
+    [
+      "sn204",
+      "Shady Springs",
+      "New Jersey",
+      600,
+      0,
+      1
+    ],
+    [
+      "sn205",
+      "LA - Shreveport",
+      "Houston",
+      400,
+      1,
+      1
+    ],
+    [
+      "sn206",
+      "MO - Sikeston",
+      "Savannah",
+      650,
+      1,
+      0
+    ],
+    [
+      "sn207",
+      "Sioux Falls",
+      "New Jersey",
+      950,
+      0,
+      1
+    ],
+    [
+      "sn208",
+      "CA - So Sacramento",
+      "Los Angeles",
+      475,
+      1,
+      0
+    ],
+    [
+      "sn209",
+      "NJ - Somerville",
+      "New Jersey",
+      300,
+      1,
+      0
+    ],
+	[
+      "sn210",
+      "MA - South Boston",
+      "New Jersey",
+      425,
+      1,
+      0
+    ],
+	[
+      "sn211",
+      "IL - Southern Illinois",
+      "Savannah",
+      625,
+      1,
+      0
+    ],
+	[
+      "sn212",
+      "Spartanburg - SC",
+      "Savannah",
+      375,
+      1,
+      0
+    ],
+	
+    [
+      "sn213",
+      "South Bend",
+      "Savannah",
+      650,
+      1,
+      1
+    ],
+    [
+      "sn215",
+      "South New Jersey",
+      "New Jersey",
+      300,
+      0,
+      1
+    ],
+    [
+      "sn216",
+      "Specialty Division",
+      "Savannah",
+      650,
+      0,
+      1
+    ],
+    [
+      "sn217",
+      "WA - Spokane",
+      "Los Angeles",
+      850,
+      1,
+      1
+    ],
+	
+	[
+      "sn2171",
+      "MO - SPRINGFIELD",
+      "New Jersey",
+      625,
+      1,
+      1
+    ],
+    [
+      "sn218",
+      "CT - Hartford Springfield",
+      "Savannah",
+      700,
+      1,
+      1
+    ],
+    [
+      "sn219",
+      "MN - St. Cloud",
+      "New Jersey",
+      700,
+      1,
+      0
+    ],
+    [
+      "sn220",
+      "MO - St. Louis",
+      "Savannah",
+      625,
+      1,
+      0
+    ],
+	[
+      "sn220",
+      "IL - St. Louis",
+      "Savannah",
+      625,
+      0,
+      1
+    ],
+	
+    [
+      "sn221",
+      "Suffolk",
+      "New Jersey",
+      600,
+      0,
+      1
+    ],
+    [
+      "sn222",
+      "CA - Sun Valley",
+      "Los Angeles",
+      325,
+      1,
+      1
+    ],
+    [
+      "sn223",
+      "NY - Syracuse",
+      "New Jersey",
+      450,
+      1,
+      1
+    ],
+    [
+      "sn224",
+      "FL - Tallahassee",
+      "Savannah",
+      425,
+      1,
+      0
+    ],
+    [
+      "sn225",
+      "FL - Tampa South",
+      "Savannah",
+      425,
+      1,
+      1
+    ],
+	[
+      "sn2251",
+      "FL - TAMPA NORTH",
+      "Savannah",
+      425,
+      1,
+      1
+    ],
+	
+    [
+      "sn226",
+      "AL - Tanner",
+      "Savannah",
+      475,
+      1,
+      0
+    ],
+    [
+      "sn227",
+      "Taunton",
+      "New Jersey",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn228",
+      "Tidewater",
+      "New Jersey",
+      500,
+      0,
+      1
+    ],
+    [
+      "sn229",
+      "GA - Tifton",
+      "Savannah",
+      375,
+      1,
+      1
+    ],
+    [
+      "sn230",
+      "NJ - Trenton",
+      "New Jersey",
+      300,
+      1,
+      0
+    ],
+    [
+      "sn231",
+      "AZ - Tucson",
+      "Los Angeles",
+      500,
+      1,
+      1
+    ],
+    [
+      "sn232",
+      "OK - Tulsa",
+      "Houston",
+      525,
+      1,
+      1
+    ],
+    [
+      "sn233",
+      "CA - Vallejo",
+      "Los Angeles",
+      475,
+      1,
+      0
+    ],
+    [
+      "sn234",
+      "CA - Van Nuys",
+      "Los Angeles",
+      290,
+      1,
+      0
+    ],
+    [
+      "sn235",
+      "TX - Waco",
+      "Houston",
+      400,
+      1,
+      0
+    ],
+    [
+      "sn236",
+      "KY - Walton",
+      "Savannah",
+      600,
+      1,
+      0
+    ],
+    [
+      "sn237",
+      "DC - Washington DC",
+      "New Jersey",
+      400,
+      1,
+      0
+    ],
+    [
+      "sn238",
+      "NH - Webster",
+      "New Jersey",
+      525,
+      1,
+      0
+    ],
+    [
+      "sn239",
+      "FL - West Palm Beach",
+      "Savannah",
+      425,
+      1,
+      0
+    ],
+    [
+      "sn240",
+      "MA - West Warren",
+      "New Jersey",
+      425,
+      1,
+      0
+    ],
+    [
+      "sn241",
+      "Western Colorado",
+      "Los Angeles",
+      850,
+      0,
+      1
+    ],
+    [
+      "sn242",
+      "IL - Wheeling",
+      "New Jersey",
+      550,
+      1,
+      0
+    ],
+    [
+      "sn243",
+      "KS - Wichita",
+      "Houston",
+      575,
+      1,
+      1
+    ],
+    [
+      "sn244",
+      "Wilmington",
+      "Savannah",
+      400,
+      0,
+      1
+    ],
+    [
+      "sn245",
+      "PA - York Haven",
+      "New Jersey",
+      450,
+      1,
+      0
+    ],
+    [
+      "sn246",
+      "York Springs",
+      "New Jersey",
+      400,
+      0,
+      1
+    ]
+	
+	
+  ]
+}

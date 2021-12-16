@@ -1,0 +1,84 @@
+/*
+Theme Name: lighthouselogistics
+Author: Evgen Miroshnychenko
+Author URI: https://www.trendline.in.ua
+Description: 
+Version: 1.0
+
+*/
+
+/*contact form 7*/
+span.wpcf7-not-valid-tip,
+div.wpcf7-validation-errors,
+div.wpcf7 img.ajax-loader,
+.parsley-errors-list{
+    display: none!important;
+}
+input.wpcf7-not-valid::-webkit-input-placeholder,
+input.parsley-error::-webkit-input-placeholder {
+    color: #f00;
+}
+input.wpcf7-not-valid::-moz-placeholder,
+input.parsley-error::-moz-placeholder {
+    color: #f00;
+}
+textarea.wpcf7-not-valid::-webkit-input-placeholder {
+    color: #f00;
+}
+textarea.wpcf7-not-valid::-moz-placeholder {
+    color: #f00;
+}
+.popup form.wpcf7-form.sent>p>span.wpcf7-form-control-wrap,
+.popup form.wpcf7-form.sent>p>img,
+.popup form.wpcf7-form.sent>p>input{
+    display: none!important;
+}
+div.wpcf7-mail-sent-ok {
+    border: none;
+    /*color: #398f14;*/
+    text-align: center;
+    margin: 0;
+}
+.popup .content-form form.wpcf7-form.sent .form-title{
+    margin: 0;
+}
+input.wpcf7-not-valid,
+input.parsley-error,
+textarea.wpcf7-not-valid{
+    border-color: #f00!important;
+}
+.wpcf7-form.sent > p,
+.wpcf7-form.sent > .row{
+    display: none;
+}
+
+/*end contact form 7*/
+
+/*.hidden-box, .result-customs{*/
+    /*display: none;*/
+/*}*/
+p.note {
+    font-size: 14px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+.archive-product .product-list .wp-pagenavi{
+    display: block;
+}
+.archive-product .wp-pagenavi{
+    display: none;
+}
+a.link_diler:hover {
+    color: #000 !important;
+    cursor: pointer !important;
+    text-decoration: underline !important;
+}
+a.link_diler{
+    padding-right: 20px;
+    color: #f77e3e !important;
+}

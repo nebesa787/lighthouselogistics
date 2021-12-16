@@ -1,0 +1,14 @@
+/* правим внешний вид админки*/
+.inventory_options,
+.shipping_options,
+.advanced_options,
+h2.hndle.ui-sortable-handle .type_box,
+p.form-field._sale_price_field,
+p.form-field.hide_if_grouped.hide_if_external,
+#postexcerpt
+{
+    display: none!important;
+}
+.attribute_options {
+    display: block!important;
+}
